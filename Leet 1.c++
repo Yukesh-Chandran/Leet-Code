@@ -1,4 +1,4 @@
-//Teo Sums - LeetCode (c++)
+//Two Sums - LeetCode (c++)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
